@@ -48,16 +48,13 @@ function matrix(){
 setInterval(matrix, 50);
 
 
-
-
-
-
 /* 
 Para conocer un poco mas del context.fillStyle y el fillRect les dejo los siguientes links: 
 http://drawingincode.com/lessons/reference/fill_style/index.html
 http://drawingincode.com/lessons/reference/fill_rect/index.html
 
 
-
+AUTHOR: GANESH PRASAD
+ORIGINAL LINK: https://dev.to/gnsp/making-the-matrix-effect-in-javascript-din
 
 */
