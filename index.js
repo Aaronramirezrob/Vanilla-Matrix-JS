@@ -22,7 +22,7 @@ function matrix(){
     context.fillRect(0, 0, w, h);
 
     // Asignamos el color y tamaño de la fuente
-    context.fillStyle = "#0f0";
+    context.fillStyle = "#ff0000";
     context.font = "15pt monospace";
     
     //creamos un bucle forEach para poner un caracter aleatorio en cada columna
@@ -56,4 +56,8 @@ setInterval(matrix, 50);
 Para conocer un poco mas del context.fillStyle y el fillRect les dejo los siguientes links: 
 http://drawingincode.com/lessons/reference/fill_style/index.html
 http://drawingincode.com/lessons/reference/fill_rect/index.html
+
+
+
+
 */
